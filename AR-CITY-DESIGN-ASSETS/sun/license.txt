@@ -1,0 +1,11 @@
+Model Information:
+* title:	Sun - Low Poly Model
+* source:	https://sketchfab.com/3d-models/sun-low-poly-model-e972736e1891424da1d588b656dc8c79
+* author:	SLawliet (https://sketchfab.com/SLawliet)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Sun - Low Poly Model" (https://sketchfab.com/3d-models/sun-low-poly-model-e972736e1891424da1d588b656dc8c79) by SLawliet (https://sketchfab.com/SLawliet) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
